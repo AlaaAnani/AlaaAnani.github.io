@@ -16,7 +16,7 @@ Error generating stack: `+a.message+`
     title     = {Certified Circuits: Stability Guarantees for Mechanistic Circuits},
     booktitle = {International Conference on Machine Learning (ICML)},
     year      = {2026}
-}`,icmlTimeline:pf,icmlStreak:"Third ICML paper in a row"},{id:4,title:"Pixel-level Certified Explanations via Randomized Smoothing",authors:"Alaa Anani, Tobias Lorenz, Mario Fritz, Bernt Schiele",venue:"ICML 2025",year:2025,thumbnailUrl:$y,pdfUrl:"https://arxiv.org/abs/2506.15499",githubUrl:"https://github.com/AlaaAnani/certified-attributions",openReviewUrl:"https://openreview.net/forum?id=NngoETL9IK",bibtex:`@InProceedings{Anani2025ICML,
+}`,icmlTimeline:pf,icmlStreak:"Third ICML first-author paper in a row"},{id:4,title:"Pixel-level Certified Explanations via Randomized Smoothing",authors:"Alaa Anani, Tobias Lorenz, Mario Fritz, Bernt Schiele",venue:"ICML 2025",year:2025,thumbnailUrl:$y,pdfUrl:"https://arxiv.org/abs/2506.15499",githubUrl:"https://github.com/AlaaAnani/certified-attributions",openReviewUrl:"https://openreview.net/forum?id=NngoETL9IK",bibtex:`@InProceedings{Anani2025ICML,
     author    = {Alaa Anani and Tobias Lorenz and Mario Fritz and Bernt Schiele},
     title     = {Pixel-level Certified Explanations via Randomized Smoothing},
     booktitle = {International Conference on Machine Learning (ICML)},
